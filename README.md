@@ -324,7 +324,11 @@ print('Video Stitched')
 ```
 
     Video Stitched
-    
+
+# Analysis of Video Compression
+Now we look at the output of the program after being run multiple times with different ranks. We see that the filesize does decrease notably as the rank gets lower, but counterintuitively the filesize actually increases using mid-ranged ranks which warrants further investigation.
+![png](CatCompressionRates.png)
+![png](NatureCompressionRates.jpg)
 
 ![Here Is A Link To THe Rank 10 Compressed MP4 File](https://github.com/jonathonheddings/MATH570_SVD_Image_Compression/blob/main/Cat_Stitched_Rank10.mp4)
 
