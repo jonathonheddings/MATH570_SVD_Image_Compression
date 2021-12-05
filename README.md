@@ -181,7 +181,7 @@ for i, rk in enumerate(rank):
 
 # Video Compression
 
-Now we move on and try to compress videos. This next function takes a video file and breaks it up into jpeg files.
+Now we move on and try to compress videos. This next function (mostly from StackExchange) takes a video file and breaks it up into jpeg files.
 
 
 ```python
