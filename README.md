@@ -326,12 +326,5 @@ print('Video Stitched')
     Video Stitched
     
 
+![Here Is A Link To THe Rank 10 Compressed MP4 File](https://github.com/jonathonheddings/MATH570_SVD_Image_Compression/blob/main/Cat_Stitched_Rank10.mp4)
 
-```python
-
-```
-
-
-```python
-
-```
