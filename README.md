@@ -1,4 +1,4 @@
-# Using SVD To Compress Images
+# Using SVD To Compress Image and Video Data
 
 In this Python Notebook, I wrote a short python program for compressing images by cutting out singular values from the Singular Value Decomposition matrix, and converting that back into an image. Below is the function that compresses a single channel of an image given a specified output rank.
 
